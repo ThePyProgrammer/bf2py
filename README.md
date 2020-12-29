@@ -1,2 +1,2 @@
-# lang2py
-Translation of languages to Python
+# bf2py
+Translation of Brainf to Python
